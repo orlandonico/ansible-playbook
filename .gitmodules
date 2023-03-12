@@ -1,0 +1,3 @@
+[submodule "roles/ansible-dooraim-role"]
+	path = roles/ansible-dooraim-role
+	url = git@github.com:dooraim/ansible-dooraim-role.git
